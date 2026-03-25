@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/EXLer-fc5311">
 <a href="https://www.linkedin.com/in/abhishek-tiwari-nitrr/"><img src="https://img.shields.io/badge/Linkedin-0e76a8"></a>
 <a href="https://www.kaggle.com/abhishek20182"><img src="https://img.shields.io/badge/Kaggle%20Competitor-20BEFF"></a>
-<a href="https://medium.com/@beery4010"><img src="https://img.shields.io/badge/AI%20Enthusiast-000000?logo=medium"></a>
+<a href="https://medium.com/@beery4010"><img src="https://img.shields.io/badge/Data%20Scientist-000000?logo=medium"></a>
 <a href="https://community.appian.com/members/abhishekt1213"><img src="https://img.shields.io/badge/Appian%20Developer-2322F0?logo=appian"></a>
 </div>
 
@@ -58,7 +58,7 @@ def abhishek():
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-tiwari-nitrr&layout=compact&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-tiwari-nitrr&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,html,css"/>
 </p>
 
 </details>
