@@ -33,8 +33,8 @@ def abhishek():
     currently_learning = ['TensorFlow', 'PostgreSQL', 'MongoDB']
     return "Open to: Data Analyst | Data Scientist | ML Engineer"
 ```
-
-## 🏆 Achievements & Competitions
+<details>
+<summary>🏆 Achievements & Competitions</summary>
 
 | Achievement | Details |
 |---|---|
@@ -48,8 +48,10 @@ def abhishek():
 | 🎓 Bertelsmann Tech Scholarship | Udacity (2020) |
 | 🏆 4x Super Squad Award | EXL Services (2024 & 2025) |
 
-## 📊 GitHub Stats
+</details>
 
+<details>
+<summary>📊 GitHub Stats</summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishek-tiwari-nitrr&show_icons=true&theme=dark&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishek-tiwari-nitrr&theme=dark&hide_border=true"/>
@@ -58,6 +60,8 @@ def abhishek():
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-tiwari-nitrr&layout=compact&theme=dark&hide_border=true" width="48%"/>
 </p>
+
+</details>
 
 ## 📫 Let's Connect
 
