@@ -14,8 +14,8 @@
 - 💼 **Lead Assistant Manager @ EXL Services** 
 - 🎓 **B.Tech, NIT Raipur '22**
 - 🏆 **4x Super Squad Award** @ EXL (2024 & 2025)
-- 🥇 **Global Rank #8** — HR Analytics Competition, Analytics Vidhya
-- 🥇 **Global Rank #67** — Power Plant Energy Prediction AI Challenge
+- 🥇 **Global Rank #8** - HR Analytics Competition, Analytics Vidhya
+- 🥇 **Global Rank #67** - Power Plant Energy Prediction AI Challenge
 - 🎓 **AWS ML Scholarship** & 
   **Bertelsmann Technology Scholarship** - Udacity
 - 📚 3x Udacity Nanodegrees - DA, AI with Python,
