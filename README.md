@@ -38,12 +38,12 @@ def abhishek():
 
 | Achievement | Details |
 |---|---|
-| 🥇 Global Rank #8 | HR Analytics — Analytics Vidhya (Jun 2023) |
+| 🥇 Global Rank #8 | HR Analytics - Analytics Vidhya (Jun 2023) |
 | 🥇 Global Rank #67 | Power Plant Energy Prediction AI Challenge (Aug 2021) |
-| 🏅 Global Rank #299 | AmExpert 2021 — ML Hackathon |
-| 🏅 Global Rank #496 | Identify the Digits — MNIST Hackathon |
-| ⭐ 5 Star Golden Badge | Python — HackerRank |
-| ⭐ 5 Star Golden Badge | SQL — HackerRank |
+| 🏅 Global Rank #299 | AmExpert 2021 - ML Hackathon |
+| 🏅 Global Rank #496 | Identify the Digits - MNIST Hackathon |
+| ⭐ 5 Star Golden Badge | Python - HackerRank |
+| ⭐ 5 Star Golden Badge | SQL - HackerRank |
 | 🎓 AWS ML Scholarship | Udacity (2021) |
 | 🎓 Bertelsmann Tech Scholarship | Udacity (2020) |
 | 🏆 4x Super Squad Award | EXL Services (2024 & 2025) |
