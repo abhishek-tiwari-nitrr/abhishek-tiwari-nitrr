@@ -11,27 +11,38 @@
 
 <img align='right' src="https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif" width="295">
 
-- 💼 **Lead Assistant Manager @ EXL Services** 
+- 🔭 **I build end-to-end ML systems** - pipelines,
+  serving, monitoring, CI/CD
+- 💼 **Lead Assistant Manager @ EXL Services** -
+  4 YOE Enterprise AI (GenAI & Agentic AI POCs)
 - 🎓 **B.Tech, NIT Raipur '22**
 - 🏆 **4x Super Squad Award** @ EXL (2024 & 2025)
-- 🥇 **Global Rank #8** - HR Analytics Competition, Analytics Vidhya
-- 🥇 **Global Rank #67** - Power Plant Energy Prediction AI Challenge
-- 🎓 **AWS ML Scholarship** & 
+- 🥇 **Global Rank #8** - HR Analytics, Analytics Vidhya
+- 🎓 **AWS ML Scholarship** &
   **Bertelsmann Technology Scholarship** - Udacity
 - 📚 3x Udacity Nanodegrees - DA, AI with Python,
   Predictive Analytics for Business
-- 🌱 Currently building towards **Data Science & ML Engineering**
+
+## 🚀 Featured Projects
+
+| Project | What it proves | Stack | Live |
+|---|---|---|---|
+| [PhishGuard](https://github.com/abhishek-tiwari-nitrr/PhishGuard) | Production MLOps - 6-stage pipeline, production gating, CI/CD | FastAPI · MLflow · Docker · MongoDB | [▶ App](https://abhishek-tiwari-nitrr-phishguard.streamlit.app/) |
+| [Customer Churn Prediction](https://github.com/abhishek-tiwari-nitrr/Telco-Customer-Churn-Prediction) | Business-impact ML - cost-asymmetric modelling, SHAP, drift monitoring | scikit-learn · SHAP · pytest · SQLite | [▶ App](https://abhishek-tiwari-nitrr-churn-prediction.streamlit.app/) |
+| [System Performance Analyzer](https://github.com/abhishek-tiwari-nitrr/System-Performance-Analyzer) | Full-stack ML app - real-time anomaly detection, JWT auth, PDF reports | Streamlit · Isolation Forest · Plotly | [▶ App](https://abhishek-tiwari-nitrr-system-performance-analyzer.streamlit.app/) |
+| [Thunderstorm Forecasting](https://github.com/abhishek-tiwari-nitrr/Thunderstorm-Forecasting) | Imbalanced classification - QDA + SMOTETomek on 40 yrs atmospheric data | scikit-learn · MLflow · imbalanced-learn | [▶ App](https://abhishek-tiwari-nitrr-thunderstorm-forecasting.streamlit.app/) |
 
 ## 🛠️ Tech Stack
 ```python
 def abhishek():
     languages = ['Python', 'SQL']
-    ml_libraries = ['Scikit-learn', 'XGBoost', 'Pandas', 'NumPy', 'Matplotlib', 'Seaborn']
-    deployment = ['Flask', 'Heroku', 'Pickle']
-    automation_and_ai = ['Appian', 'Generative AI', 'Agentic AI']
-    databases = ['MariaDB', 'MySQL']
-    currently_learning = ['TensorFlow', 'PostgreSQL', 'MongoDB']
-    return "Open to: Data Analyst | Data Scientist | ML Engineer"
+    ml = ['Scikit-learn', 'XGBoost', 'SHAP', 'imbalanced-learn', 'Pandas', 'NumPy']
+    mlops = ['MLflow', 'DagsHub', 'Docker', 'GitHub Actions', 'pytest']
+    serving = ['FastAPI', 'Streamlit', 'Pydantic', 'Swagger UI']
+    databases = ['MongoDB Atlas', 'SQLite', 'MySQL', 'MariaDB']
+    enterprise_ai = ['Appian', 'Generative AI', 'Agentic AI']
+    currently_learning = ['LangChain', 'PyTorch', 'AWS']
+    return "Open to: Data Scientist | ML Engineer | Applied AI Engineer"
 ```
 <details>
 <summary>🏆 Achievements & Competitions</summary>
@@ -72,5 +83,5 @@ def abhishek():
 </p>
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=beery4010.beery4010"> 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=beery4010.beery4010">
 </div>
