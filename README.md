@@ -6,13 +6,17 @@
 <a href="https://www.kaggle.com/abhishek20182"><img src="https://img.shields.io/badge/Kaggle%20Competitor-20BEFF"></a>
 <a href="https://medium.com/@abhishek-tiwari-nitrr"><img src="https://img.shields.io/badge/Data%20Scientist-000000?logo=medium"></a>
 <a href="https://community.appian.com/members/abhishekt1213"><img src="https://img.shields.io/badge/Appian%20Developer-2322F0?logo=appian"></a>
+<a href="https://pypi.org/project/peeklog/"><img src="https://img.shields.io/pypi/v/peeklog?label=peeklog&logo=pypi&logoColor=white"></a>
 </div>
 
 
 <img align='right' src="https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif" width="295">
 
-- 🔭 **I build end-to-end ML systems** - pipelines,
-  serving, monitoring, CI/CD
+- 🔭 **I build GenAI & ML systems that are safe to ship** -
+  RAG with citations, guardrails & evals, end-to-end ML
+  pipelines, and the Python tooling around them
+- 📦 **Published [Peeklog](https://pypi.org/project/peeklog/) on PyPI** -
+  `pip install peeklog`
 - 💼 **Lead Assistant Manager @ EXL Services** -
   4 YOE Enterprise AI (GenAI & Agentic AI POCs)
 - 🎓 **B.Tech, NIT Raipur '22**
@@ -27,7 +31,9 @@
 
 | Project | What it proves | Stack | Live |
 |---|---|---|---|
+| [PulseRAG](https://github.com/abhishek-tiwari-nitrr/PulseRAG) | Safe GenAI - answers only from indexed sources, with citations, prompt-injection + output-safety guardrails and DeepEval groundedness scoring | LlamaIndex · Qdrant · OpenAI · DeepEval · Streamlit | [▶ App](https://abhishek-tiwari-nitrr-pulserag.streamlit.app/) |
 | [PhishGuard](https://github.com/abhishek-tiwari-nitrr/PhishGuard) | Production MLOps - 6-stage pipeline, production gating, CI/CD | FastAPI · MLflow · Docker · MongoDB | [▶ App](https://abhishek-tiwari-nitrr-phishguard.streamlit.app/) |
+| [Peeklog](https://github.com/abhishek-tiwari-nitrr/Peeklog) | Shipped Python tooling - streaming log analysis, statistical anomaly detection, one engine behind a CLI and a library | Typer · Rich · ReportLab · PyPI | [📦 PyPI](https://pypi.org/project/peeklog/) |
 | [Customer Churn Prediction](https://github.com/abhishek-tiwari-nitrr/Telco-Customer-Churn-Prediction) | Business-impact ML - cost-asymmetric modelling, SHAP, drift monitoring | scikit-learn · SHAP · pytest · SQLite | [▶ App](https://abhishek-tiwari-nitrr-churn-prediction.streamlit.app/) |
 | [System Performance Analyzer](https://github.com/abhishek-tiwari-nitrr/System-Performance-Analyzer) | Full-stack ML app - real-time anomaly detection, JWT auth, PDF reports | Streamlit · Isolation Forest · Plotly | [▶ App](https://abhishek-tiwari-nitrr-system-performance-analyzer.streamlit.app/) |
 | [Thunderstorm Forecasting](https://github.com/abhishek-tiwari-nitrr/Thunderstorm-Forecasting) | Imbalanced classification - QDA + SMOTETomek on 40 yrs atmospheric data | scikit-learn · MLflow · imbalanced-learn | [▶ App](https://abhishek-tiwari-nitrr-thunderstorm-forecasting.streamlit.app/) |
@@ -36,13 +42,15 @@
 ```python
 def abhishek():
     languages = ['Python', 'SQL']
+    genai = ['RAG', 'LlamaIndex', 'OpenAI API', 'DeepEval', 'LLM guardrails', 'Prompt engineering']
     ml = ['Scikit-learn', 'XGBoost', 'SHAP', 'imbalanced-learn', 'Pandas', 'NumPy']
     mlops = ['MLflow', 'DagsHub', 'Docker', 'GitHub Actions', 'pytest']
     serving = ['FastAPI', 'Streamlit', 'Pydantic', 'Swagger UI']
-    databases = ['MongoDB Atlas', 'SQLite', 'MySQL', 'MariaDB']
+    packaging = ['PyPI', 'hatchling', 'Typer', 'Rich']
+    databases = ['Qdrant Cloud', 'MongoDB Atlas', 'SQLite', 'MySQL', 'MariaDB']
     enterprise_ai = ['Appian', 'Generative AI', 'Agentic AI']
-    currently_learning = ['LangChain', 'PyTorch', 'AWS']
-    return "Open to: Data Scientist | ML Engineer | Applied AI Engineer"
+    currently_learning = ['PyTorch', 'Fine-tuning']
+    return "Open to: GenAI Engineer | Applied AI Engineer | ML Engineer | Data Scientist"
 ```
 <details>
 <summary>🏆 Achievements & Competitions</summary>
@@ -77,11 +85,12 @@ def abhishek():
 ## 📫 Let's Connect
 
 <p align="center">
+  <a href="https://abhishek-tiwari-nitrr.github.io/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/abhishek-tiwari-nitrr/">LinkedIn</a> •
   <a href="https://www.kaggle.com/abhishek20182">Kaggle</a> •
   <a href="https://medium.com/@abhishek-tiwari-nitrr">Medium</a>
 </p>
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=beery4010.beery4010">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=abhishek-tiwari-nitrr.abhishek-tiwari-nitrr">
 </div>
