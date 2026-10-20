@@ -32,11 +32,11 @@
 | Project | What it proves | Stack | Live |
 |---|---|---|---|
 | [PulseRAG](https://github.com/abhishek-tiwari-nitrr/PulseRAG) | Safe GenAI - answers only from indexed sources, with citations, prompt-injection + output-safety guardrails and DeepEval groundedness scoring | LlamaIndex · Qdrant · OpenAI · DeepEval · Streamlit | [▶ App](https://abhishek-tiwari-nitrr-pulserag.streamlit.app/) |
+| [ChatCloset](https://github.com/abhishek-tiwari-nitrr/ChatCloset) | Safe agentic AI - a Pydantic AI shopping assistant turns plain English into a database search through one typed tool, so the LLM never writes queries; offline fallback when the model is down | FastAPI · MongoDB · Pydantic AI · Groq · Docker | [▶ Demo](https://www.youtube.com/watch?v=UXLr4BNxtzU) |
 | [PhishGuard](https://github.com/abhishek-tiwari-nitrr/PhishGuard) | Production MLOps - 6-stage pipeline, production gating, CI/CD | FastAPI · MLflow · Docker · MongoDB | [▶ App](https://abhishek-tiwari-nitrr-phishguard.streamlit.app/) |
 | [Peeklog](https://github.com/abhishek-tiwari-nitrr/Peeklog) | Shipped Python tooling - streaming log analysis, statistical anomaly detection, one engine behind a CLI and a library | Typer · Rich · ReportLab · PyPI | [📦 PyPI](https://pypi.org/project/peeklog/) |
 | [Customer Churn Prediction](https://github.com/abhishek-tiwari-nitrr/Telco-Customer-Churn-Prediction) | Business-impact ML - cost-asymmetric modelling, SHAP, drift monitoring | scikit-learn · SHAP · pytest · SQLite | [▶ App](https://abhishek-tiwari-nitrr-churn-prediction.streamlit.app/) |
 | [System Performance Analyzer](https://github.com/abhishek-tiwari-nitrr/System-Performance-Analyzer) | Full-stack ML app - real-time anomaly detection, JWT auth, PDF reports | Streamlit · Isolation Forest · Plotly | [▶ App](https://abhishek-tiwari-nitrr-system-performance-analyzer.streamlit.app/) |
-| [Thunderstorm Forecasting](https://github.com/abhishek-tiwari-nitrr/Thunderstorm-Forecasting) | Imbalanced classification - QDA + SMOTETomek on 40 yrs atmospheric data | scikit-learn · MLflow · imbalanced-learn | [▶ App](https://abhishek-tiwari-nitrr-thunderstorm-forecasting.streamlit.app/) |
 
 ## 🛠️ Tech Stack
 ```python
