@@ -42,12 +42,12 @@
 ```python
 def abhishek():
     languages = ['Python', 'SQL']
-    genai = ['RAG', 'LlamaIndex', 'OpenAI API', 'DeepEval', 'LLM guardrails', 'Prompt engineering']
+    genai = ['RAG', 'LlamaIndex', 'Pydantic AI', 'Groq', 'OpenAI API', 'Tool calling', 'DeepEval', 'LLM guardrails', 'Prompt engineering']
     ml = ['Scikit-learn', 'XGBoost', 'SHAP', 'imbalanced-learn', 'Pandas', 'NumPy']
     mlops = ['MLflow', 'DagsHub', 'Docker', 'GitHub Actions', 'pytest']
     serving = ['FastAPI', 'Streamlit', 'Pydantic', 'Swagger UI']
     packaging = ['PyPI', 'hatchling', 'Typer', 'Rich']
-    databases = ['Qdrant Cloud', 'MongoDB Atlas', 'SQLite', 'MySQL', 'MariaDB']
+    databases = ['Qdrant Cloud', 'MongoDB (local & Atlas)', 'SQLite', 'MySQL', 'MariaDB']
     enterprise_ai = ['Appian', 'Generative AI', 'Agentic AI']
     currently_learning = ['PyTorch', 'Fine-tuning']
     return "Open to: GenAI Engineer | Applied AI Engineer | ML Engineer | Data Scientist"
